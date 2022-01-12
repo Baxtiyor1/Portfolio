@@ -19,12 +19,12 @@ function Footer() {
                         </a>
                     </li>
                     <li className='footer__subitem'>
-                        <a className='footer__link' href="">
+                        <a className='footer__link' href="https://github.com/Baxtiyor1">
                             <img className='footer__img' src={github} alt="github" />
                         </a>
                     </li>
                     <li className='footer__subitem'>
-                        <a className='footer__link' href="">
+                        <a className='footer__link' href="#/">
                             <img className='footer__img' src={linkedIn} alt="linkedIn" />
                         </a>
                     </li>
