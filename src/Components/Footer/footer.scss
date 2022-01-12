@@ -1,0 +1,24 @@
+.footer{
+    padding: 15px 0;
+    border-top: 1px solid #B2BAC2;
+    &__follow{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    &__img{
+        width: 30px;
+    }
+    &__subitem{
+        padding: 0 10px;
+        border-right: 2px solid #B2BAC2;
+        &:last-child{
+            border-right: none;
+        }
+    }
+    &__text{
+        margin-top: 5px;
+        text-align: center;
+        color: #B2BAC2;
+    }
+}
